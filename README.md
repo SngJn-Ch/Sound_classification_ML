@@ -27,11 +27,19 @@
 
 4. Get the Result
 
-  ![image](https://user-images.githubusercontent.com/111392592/188499914-ab080cf8-ce62-4b25-988d-f47161b2d701.png)
+  <img src= "https://user-images.githubusercontent.com/111392592/188499914-ab080cf8-ce62-4b25-988d-f47161b2d701.png" width = "80" heigth = "80">
+  vs
+  <img src= "https://user-images.githubusercontent.com/111392592/188499914-ab080cf8-ce62-4b25-988d-f47161b2d701.png" width = "80" heigth = "80">
+  
 
   
-  
 
+# Why Mel Spectrogram?
+  ![SA_099A_S05 wav_42](https://user-images.githubusercontent.com/111392592/188503440-9efd1e6b-fed2-4c60-b31c-a77ce8f93a1b.png)
+
+  initial data parsing form
+  
+  
 
 
 # Where to get Data
