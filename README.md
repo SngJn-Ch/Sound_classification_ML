@@ -27,16 +27,15 @@
 
 4. Get the Result
 
-  <img src= "https://user-images.githubusercontent.com/111392592/188499914-ab080cf8-ce62-4b25-988d-f47161b2d701.png" width = "80" heigth = "80">
-  vs
-  <img src= "https://user-images.githubusercontent.com/111392592/188499914-ab080cf8-ce62-4b25-988d-f47161b2d701.png" width = "80" heigth = "80">
+  ![image](https://user-images.githubusercontent.com/111392592/188503725-8a5068ef-19b4-4160-bc91-b6668868b26d.png)
+ 
   
 
   
 
 # Why Mel Spectrogram?
-  ![SA_099A_S05 wav_42](https://user-images.githubusercontent.com/111392592/188503440-9efd1e6b-fed2-4c60-b31c-a77ce8f93a1b.png)
-
+  <img src = "https://user-images.githubusercontent.com/111392592/188503440-9efd1e6b-fed2-4c60-b31c-a77ce8f93a1b.png" width = "150" height = "150"> vs <img src = "https://user-images.githubusercontent.com/111392592/188503440-9efd1e6b-fed2-4c60-b31c-a77ce8f93a1b.png" width = "150" height = "150">
+       
   initial data parsing form
   
   
