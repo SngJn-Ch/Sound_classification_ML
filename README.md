@@ -34,7 +34,7 @@
   
 
 # Why Mel Spectrogram?
-  <img src = "https://user-images.githubusercontent.com/111392592/188503440-9efd1e6b-fed2-4c60-b31c-a77ce8f93a1b.png" width = "150" height = "150"> vs <img src = "https://user-images.githubusercontent.com/111392592/188503440-9efd1e6b-fed2-4c60-b31c-a77ce8f93a1b.png" width = "150" height = "150">
+  <img src = "https://user-images.githubusercontent.com/111392592/188503440-9efd1e6b-fed2-4c60-b31c-a77ce8f93a1b.png" width = "300" height = "300"> vs <img src = "https://user-images.githubusercontent.com/111392592/185056295-7f35d39c-8112-4a82-a336-a3a62bd21268.png" width = "300" height = "300">
        
   initial data parsing form
   
