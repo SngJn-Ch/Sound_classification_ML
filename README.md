@@ -35,7 +35,7 @@
        
   Sound intensity image only has sound intensity by time
   
-    Mel Spectrogram has pitch information, and intensity information by time. Furthermore, Mel Spectrogram from **librosa** library also provides a constant return size regardless of the length of data. The constant return size is significant in machine learning since the layer can't handle data of different sizes.
+  Mel Spectrogram has pitch information, and intensity information by time. Furthermore, Mel Spectrogram from **librosa** library also provides a constant return size regardless of the length of data. The constant return size is significant in machine learning since the layer can't handle data of different sizes.
   
   
 
