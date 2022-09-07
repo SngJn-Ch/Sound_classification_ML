@@ -13,10 +13,11 @@
   
 2. Label the Mel Spectrogram
 
-  0 = Air Conditioner       1 = Car Horn           2 = Children Playing         3 = Dog Bark         4 = Drilling        5 = Engine Idling    
+    0 = Air Conditioner       1 = Car Horn           2 = Children Playing         3 = Dog Bark         4 = Drilling        5 = Engine Idling    
    
-  6 = Gun Shot              7 = Jackhammer          8 = Siren        9 = Street Music
+    6 = Gun Shot              7 = Jackhammer          8 = Siren        9 = Street Music
   
+
 
 3. Put Mel Spectrogram Array and Label into CNN
 
